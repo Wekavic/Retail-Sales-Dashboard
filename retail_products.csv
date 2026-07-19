@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price,stock_level
+P-2001,Home Decor Item 1,Home Decor,438.33,1011.63,184
+P-2002,Apparel Item 2,Apparel,218.74,295.45,435
+P-2003,Electronics Item 3,Electronics,14.74,20.34,331
+P-2004,Home Decor Item 4,Home Decor,171.04,404.15,489
+P-2005,Sports Item 5,Sports,141.47,304.58,190
+P-2006,Apparel Item 6,Apparel,99.61,171.43,492
+P-2007,Beauty Item 7,Beauty,143.2,243.64,435
+P-2008,Beauty Item 8,Beauty,401.95,821.38,408
+P-2009,Home Decor Item 9,Home Decor,65.4,137.67,30
+P-2010,Home Decor Item 10,Home Decor,60.82,145.03,247
+P-2011,Sports Item 11,Sports,342.41,491.58,194
+P-2012,Apparel Item 12,Apparel,309.57,718.62,450
+P-2013,Home Decor Item 13,Home Decor,246.71,452.6,454
+P-2014,Beauty Item 14,Beauty,225.94,289.73,335
+P-2015,Apparel Item 15,Apparel,16.06,37.4,268
+P-2016,Sports Item 16,Sports,364.65,543.76,489
+P-2017,Apparel Item 17,Apparel,264.36,553.76,316
+P-2018,Electronics Item 18,Electronics,222.1,476.33,246
+P-2019,Apparel Item 19,Apparel,335.22,681.78,76
+P-2020,Sports Item 20,Sports,447.11,892.78,5
+P-2021,Home Decor Item 21,Home Decor,257.73,466.51,253
+P-2022,Home Decor Item 22,Home Decor,46.68,85.85,123
+P-2023,Apparel Item 23,Apparel,485.37,614.21,114
+P-2024,Sports Item 24,Sports,325.23,560.78,120
+P-2025,Electronics Item 25,Electronics,234.96,526.7,229
+P-2026,Electronics Item 26,Electronics,429.73,765.43,60
+P-2027,Beauty Item 27,Beauty,375.17,458.87,206
+P-2028,Beauty Item 28,Beauty,27.56,52.75,422
+P-2029,Electronics Item 29,Electronics,397.97,975.87,326
+P-2030,Apparel Item 30,Apparel,446.15,861.53,335
+P-2031,Beauty Item 31,Beauty,475.67,795.48,27
+P-2032,Home Decor Item 32,Home Decor,423.72,691.33,392
+P-2033,Sports Item 33,Sports,303.98,647.98,186
+P-2034,Beauty Item 34,Beauty,65.87,144.07,113
+P-2035,Electronics Item 35,Electronics,177.26,403.95,493
+P-2036,Apparel Item 36,Apparel,278.37,469.35,54
+P-2037,Electronics Item 37,Electronics,449.47,827.09,420
+P-2038,Beauty Item 38,Beauty,62.41,124.45,96
+P-2039,Electronics Item 39,Electronics,465.81,796.89,234
+P-2040,Home Decor Item 40,Home Decor,361.23,484.08,212
+P-2041,Electronics Item 41,Electronics,464.05,1062.07,301
+P-2042,Electronics Item 42,Electronics,388.35,693.46,337
+P-2043,Sports Item 43,Sports,478.53,657.99,255
+P-2044,Electronics Item 44,Electronics,269.88,340.9,478
+P-2045,Beauty Item 45,Beauty,421.02,769.55,260
+P-2046,Home Decor Item 46,Home Decor,348.99,497.57,417
+P-2047,Home Decor Item 47,Home Decor,60.74,124.81,310
+P-2048,Apparel Item 48,Apparel,257.01,436.93,311
+P-2049,Home Decor Item 49,Home Decor,144.06,353.33,496
+P-2050,Apparel Item 50,Apparel,231.89,318.47,211
